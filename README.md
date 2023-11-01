@@ -1,5 +1,5 @@
 # larison_et_al_2023
-Data from "Environmental Dependence of Type Ia Supernovae in Low-Redshift Galaxy Clusters", [https://arxiv.org/abs/2306.01088](https://ui.adsabs.harvard.edu/abs/2023arXiv230601088L/abstract)
+Data from "Environmental Dependence of Type Ia Supernovae in Low-Redshift Galaxy Clusters", [NASA ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230601088L/abstract)
 
 inner_cluster_data.csv and outer_cluster_data.csv include the SALT3 mB, x1, and c parameter values, distance moduli and Hubble residuals (with _1 referring to Figure 9 and _2 referring to Figure 10), outlier designation from MCMC procedure, host cluster, host cluster redshift (with Hubble diagram version converted to frame of CMB), host cluster r500, projected separation from cluster center, NED Host galaxy name, photometrically-derived estimate for host mass, host or SN redshift used in analysis, and the Host SFR category (Q: quiescent, SF: star-forming, GV: green valley) for our cluster SNe Ia.
 
