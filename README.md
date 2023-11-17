@@ -6,3 +6,5 @@ inner_cluster_data.csv and outer_cluster_data.csv include the SALT3 mB, x1, and 
 sf_field.csv and quiescent_field.csv contain SALT parameter values, distance moduli and Hubble residuals (from Figure 10), host galaxy sSFR and mass measurements, and host redshifts (all spectroscopic, also with Hubble diagram converted values) for SNe Ia in our field samples.
 
 full_cluster.csv contains the data from the table in the appendix of the paper.
+
+The Python scripts recreate the figures from the paper given the above data.
