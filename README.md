@@ -7,4 +7,4 @@ sf_field.csv and quiescent_field.csv contain SALT parameter values, distance mod
 
 full_cluster.csv contains the data from the table in the appendix of the paper.
 
-The Python scripts recreate the figures from the paper given the above data.
+The Python scripts recreate the figures from the paper given the above data. The details for which columns and constraints needed to reproduce the figures are included in these files.
