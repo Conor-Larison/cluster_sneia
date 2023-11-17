@@ -7,4 +7,6 @@ sf_field.csv and quiescent_field.csv contain SALT parameter values, distance mod
 
 full_cluster.csv contains the data from the table in the appendix of the paper.
 
+The inner_cluster_/outer_cluster_mcmc_samples.csv files contain the samples needed to reproduce the corner plot for Figure 10.
+
 The Python scripts recreate the figures from the paper given the above data. The details for which columns and constraints needed to reproduce the figures are included in these files.
